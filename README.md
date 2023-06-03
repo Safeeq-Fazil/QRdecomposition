@@ -62,7 +62,9 @@ QR_Decomposition(a)
 ```
 
 ## Output
-![exp 8](https://github.com/Safeeq-Fazil/QRdecomposition/assets/118680361/8fc93969-8892-4c04-83cf-1c14a7bdfd98)
+![qr ](https://github.com/Safeeq-Fazil/QRdecomposition/assets/118680361/2a24244b-a603-49b2-90b3-faaf62f88c6a)
+
+
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
